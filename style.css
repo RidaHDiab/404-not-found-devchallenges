@@ -44,3 +44,19 @@ button{
     width: 250px; 
     
 }
+.name{
+    text-decoration: underline;
+}
+.line{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: #808080;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    left: auto;
+    right: auto;
+}
+a{
+    text-decoration: none;
+}
