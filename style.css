@@ -61,3 +61,7 @@ a{
     text-decoration: none;
     color: #808080;
 }
+a:hover{
+    color:blue;
+    text-decoration: underline;
+}
